@@ -15,7 +15,7 @@ Note: There might be minor differences in steps depending on your project.
 4.) In GitHub desktop select:  
 &nbsp; &nbsp; a. Click on File -> Clone Repository  
 &nbsp; &nbsp; b. Click on URL tab and paste URL from previous step and select clone.
-![image](https://user-images.githubusercontent.com/47575229/172682332-74e4c7ad-5d18-45d8-aa28-c8680f91a160.png)
+![clone2](https://user-images.githubusercontent.com/47575229/175544477-78029495-db0c-4a89-a7cd-8afc9428a3cb.png)
 
 5.) You will now see Example Programs is selected as the current repository.  
 ![image](https://user-images.githubusercontent.com/47575229/172682651-72307ef3-2039-4212-82c3-214066eff205.png)
