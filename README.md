@@ -1,5 +1,6 @@
 # Example Programs  
 Find inspiration in what others have done with Automationdirect products. Share your projects with the community!
+Note: There are mutlitple Git clients that can be used. In our example we used Github Desktop.
 
 # Steps to create customer projects
 
