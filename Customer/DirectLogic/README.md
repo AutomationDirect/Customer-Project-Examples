@@ -1,5 +1,5 @@
 
-# Customer submitted DirectLogic program examples//
+# Customer submitted DirectLogic program examples
 
 Purpose:  
 Allow users/customers to submit their programming and application examples. 
