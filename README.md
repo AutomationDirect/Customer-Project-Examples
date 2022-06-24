@@ -33,6 +33,10 @@ Note: There might be minor differences in steps depending on your project.
 
 8.) Add a description & summary -> then click on “commit to main”.  
 ![image](https://user-images.githubusercontent.com/47575229/172693468-3d455e9c-1186-4403-bdd5-91e48ef6cea8.png)
+Note: You may get pop up asking to fork the repository -> select "fork this repository:
+Screen Shot 2022-06-10 at 3 01 39 PM
+Followed by asking how you want to use the fork -> select "To contribute to main project":
+Screen Shot 2022-06-10 at 3 04 29 PM
 
 9.) Select “Push to Origin”  This will push changes up to GitHub.   
 ![image](https://user-images.githubusercontent.com/47575229/172693489-f6807eab-fe2a-49d8-b70d-ba4dedc51a40.png)
