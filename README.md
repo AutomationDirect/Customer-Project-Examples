@@ -18,7 +18,7 @@ Note: There might be minor differences in steps depending on your project.
 ![clone2](https://user-images.githubusercontent.com/47575229/175544477-78029495-db0c-4a89-a7cd-8afc9428a3cb.png)
 
 5.) You will now see Example Programs is selected as the current repository.  
-![image](https://user-images.githubusercontent.com/47575229/172682651-72307ef3-2039-4212-82c3-214066eff205.png)
+![repos](https://user-images.githubusercontent.com/47575229/175544679-c1bca0c3-071b-496b-a048-dd8b79ec4f81.png)
 
 6.) Next you will want to create a new project folder in the existing Customer folder.   
 &nbsp; &nbsp; a. Click on repository and then show in explorer.  
