@@ -32,11 +32,12 @@ Note: There might be minor differences in steps depending on your project.
 ![image](https://user-images.githubusercontent.com/47575229/172693319-76d97fbd-1b0f-4657-b815-a3f63dbdd917.png)
 
 8.) Add a description & summary -> then click on “commit to main”.  
-![image](https://user-images.githubusercontent.com/47575229/172693468-3d455e9c-1186-4403-bdd5-91e48ef6cea8.png)
+![image](https://user-images.githubusercontent.com/47575229/172693468-3d455e9c-1186-4403-bdd5-91e48ef6cea8.png)  
 Note: You may get pop up asking to fork the repository -> select "fork this repository:
-Screen Shot 2022-06-10 at 3 01 39 PM
-Followed by asking how you want to use the fork -> select "To contribute to main project":
-Screen Shot 2022-06-10 at 3 04 29 PM
+![fork](https://user-images.githubusercontent.com/47575229/175550573-1215f235-7be5-4121-8343-6da2d2ed9f72.png)
+
+Followed by asking how you want to use the fork -> select "To contribute to main project":  
+![fork1](https://user-images.githubusercontent.com/47575229/175550638-54634f0b-331b-4dc4-b949-5ce6733e0a0f.png)
 
 9.) Select “Push to Origin”  This will push changes up to GitHub.   
 ![image](https://user-images.githubusercontent.com/47575229/172693489-f6807eab-fe2a-49d8-b70d-ba4dedc51a40.png)
