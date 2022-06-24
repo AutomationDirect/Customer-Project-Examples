@@ -28,7 +28,7 @@ Note: There might be minor differences in steps depending on your project.
 &nbsp; &nbsp; c. Right click and create a new project folder name and put all files into the folder.   
 &nbsp; &nbsp; d. Also inside project folder create a notepad file & name it readme.md. This will be used as title page. So, open the file and give as much detail about your example project.   
 
-7.) Once all files are in project folder go to desktop app and you will see all changes in left hand column.  
+7.) Once all files are in project folder close the explorer window & go to desktop app and you will see all changes in left hand column.  
 ![image](https://user-images.githubusercontent.com/47575229/172693319-76d97fbd-1b0f-4657-b815-a3f63dbdd917.png)
 
 8.) Add a description & summary -> then click on “commit to main”.  
