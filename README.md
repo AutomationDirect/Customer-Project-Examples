@@ -33,7 +33,7 @@ Note: There might be minor differences in steps depending on your project.
 
 8.) Add a description & summary -> then click on “commit to main”.  
 ![image](https://user-images.githubusercontent.com/47575229/172693468-3d455e9c-1186-4403-bdd5-91e48ef6cea8.png)  
-Note: You may get pop up asking to fork the repository -> select "fork this repository:
+Note: You may get pop up asking to fork the repository -> select "fork this repository:  
 ![fork](https://user-images.githubusercontent.com/47575229/175550573-1215f235-7be5-4121-8343-6da2d2ed9f72.png)
 
 Followed by asking how you want to use the fork -> select "To contribute to main project":  
