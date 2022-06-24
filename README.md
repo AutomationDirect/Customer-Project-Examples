@@ -10,7 +10,7 @@ Note: There might be minor differences in steps depending on your project.
 3.) Clone the repository:  
 &nbsp; &nbsp; a. Go to https://github.com/ADCCommTeam02/Example-Programs     
 &nbsp; &nbsp; b. Click on code dropdown & copy the repository address.  
-![image](https://user-images.githubusercontent.com/47575229/172681250-a5646140-39b2-44e1-b1e7-c713c085942f.png)  
+![clone](https://user-images.githubusercontent.com/47575229/175544116-46e9bdd8-b11d-4e7c-a86f-2bb3bfdca78b.png)
 
 4.) In GitHub desktop select:  
 &nbsp; &nbsp; a. Click on File -> Clone Repository  
