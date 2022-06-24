@@ -1,4 +1,4 @@
-# Example-Program's  
+# Example Programs  
 Find inspiration in what others have done with Automationdirect products. Share your projects with the community!
 
 # Steps to create customer projects
